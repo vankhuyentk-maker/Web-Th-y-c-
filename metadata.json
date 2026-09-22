@@ -1,0 +1,6 @@
+{
+  "name": "Duy Tân Learning Manager",
+  "description": "Hệ thống quản trị học tập dành cho giáo viên và học sinh trường THPT Duy Tân - Quản lý lớp học, nhiệm vụ, tài liệu, bài kiểm tra và tiến độ học tập.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
